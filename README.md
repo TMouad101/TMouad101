@@ -2,8 +2,7 @@
 ![Hi](https://github.com/TMouad101/Files/blob/36b35afba418f9c2b2673cb6c06a21e4faabb921/mouad2.gif)
 
 # 💫 About Me:
-✋ Hi I'm Mouad Tigmouti<br><br>🧑🏻‍💻 I'm a cybersecurity student.<br><br>🔐 Passionate about this domain, which has taught me a lot of cool tricks and hacks. I've completed many projects in this field, and you can find their reports on this website.<br><br>🏫 Currently, I'm pursuing my cybersecurity engineering studies at the National Institute of Posts and Telecommunications (INPT) in Rabat.<br><br>🚩 As a passionate CTF player, I thoroughly enjoy solving problems and exploring new challenges.<br><br>🖌️ I'm also a graohic design entousiat pasionate about graphic design world and video editing
-
+✋ Hi I'm Mouad Tigmouti<br><br>🧑🏻‍💻 I'm a cybersecurity student.<br><br>🔐 Passionate about this domain, which has taught me a lot of cool tricks and hacks. I've completed many projects in this field, and you can find their reports on this website.<br><br>🏫 Currently, I'm pursuing my cybersecurity engineering studies at the National Institute of Posts and Telecommunications (INPT) in Rabat.<br><br>🚩 As a passionate CTF player, I thoroughly enjoy solving problems and exploring new challenges.<br><br>🖌️ I'm also a graphic design enthusiast, passionate about the world of graphic design and video editing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-tigmouti) 
